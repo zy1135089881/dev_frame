@@ -1,0 +1,23 @@
+app:
+  name: "app"
+  mode: "dev"
+  port: "8080"
+mysql:
+  host: "139.198.153.149"
+  port: 3306
+  user: "root"
+  password: "root123456"
+  dbname: "test"  
+log:
+  level: "debug"
+  filename: "app.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+redis:
+  host: "139.198.153.149"
+  port: "6379"
+  db: 0
+
+
+  

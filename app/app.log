@@ -1,0 +1,4 @@
+{"level":"INFO","time":"2022-03-23T17:33:58.621+0800","caller":"logger/logger.go:69","msg":"/hello","status":200,"method":"GET","path":"/hello","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46","errors":"","cost":0}
+{"level":"INFO","time":"2022-03-23T17:33:58.675+0800","caller":"logger/logger.go:69","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46","errors":"","cost":0}
+{"level":"INFO","time":"2022-03-23T17:34:16.810+0800","caller":"app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-03-23T17:34:17.311+0800","caller":"app/main.go:80","msg":"Server exiting"}
