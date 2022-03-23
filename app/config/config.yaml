@@ -3,10 +3,10 @@ app:
   mode: "dev"
   port: "8080"
 mysql:
-  host: "139.198.153.149"
+  host: ""
   port: 3306
   user: "root"
-  password: "root123456"
+  password: ""
   dbname: "test"  
 log:
   level: "debug"
@@ -15,7 +15,7 @@ log:
   max_age: 30
   max_backups: 7
 redis:
-  host: "139.198.153.149"
+  host: ""
   port: "6379"
   db: 0
 
